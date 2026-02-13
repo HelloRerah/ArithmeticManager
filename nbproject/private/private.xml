@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/web/index.html</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/web/menu.html</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/web/add.html</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/web/subtract.html</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/web/multiply.html</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/web/division.html</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/src/java/ac/za/servlet/AdditionServlet.java</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/src/java/ac/za/models/ArithmeticManager.java</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/web/add.jsp</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/src/java/ac/za/servlet/MultiplicationServlet.java</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/web/multiply.jsp</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/web/divide.jsp</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/web/subtract.jsp</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/src/java/ac/za/servlet/DivisionServlet.java</file>
+            <file>file:/home/rerah/NetBeansProjects/Chpt2_MVC/ArithmenticManager/src/java/ac/za/servlet/SubtractionServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
